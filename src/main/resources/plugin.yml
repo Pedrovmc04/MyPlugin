@@ -1,0 +1,14 @@
+name: pedro
+version: '0.1'
+main: org.pedro.Pedro
+api-version: 1.19
+authors: [Pedro-vmc]
+description: 'My plugin'
+
+commands:
+  die:
+    description: 'kill you'
+    usage: /<command>
+  gui:
+    description: 'open gui'
+    usage: /<command>
